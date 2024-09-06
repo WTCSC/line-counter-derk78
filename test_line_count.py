@@ -1,7 +1,7 @@
 import random
 import os
 
-from line_count import line_count
+from word_count import line_count
 
 def test_line_count():
   # write random text to file.txt to make sure the function is counting the lines instead of just returning a static number
